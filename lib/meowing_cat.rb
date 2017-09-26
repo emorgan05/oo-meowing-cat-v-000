@@ -6,3 +6,7 @@ class Cat
   end
 end
 
+garfield = Cat.new
+garfield.name = "Garfield"
+puts garfield.name
+garfield.meow
